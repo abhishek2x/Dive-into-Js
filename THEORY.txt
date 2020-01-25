@@ -1,0 +1,55 @@
+Javascript
+
+-----------OBJECTS------------
+
+Javascript is a prototypal language.
+Not a classical Object-Oriented Language.
+Objects inherit from Objects not classes.
+
+----------SUMMARY----------------
+
+document.querySelector() : to access an element.
+
+element.innerText : to get/change the text of a presentation element.
+
+element.value : to get/change the value of an input element.
+
+element.onchange : to responde to updating an input element.
+
+element.addEventListener('change', function(){}, true): alternative way to bind an event.
+
+----------Node Js---------------
+
+Javascript runtime outside the browser
+Native event-driven flow
+Concurrent Processing(Without blocking)
+
+Uses :
+Webservers
+Automated tasks
+Build Scripts(Transpiling)
+And more!.. 
+
+
+-------------Regular Expressions-------------
+
+\d = Match the digit (0-9)
+\w = Match any word (a-z A-Z 0-9..)
+\s = Match whitespace characters (eg spaces, tabs)
+\t = Match the tab only
+
+-------------------JQuery---------------------
+
+jQuery is a fast, small, and feature-rich Javascript library.
+
+Uses:
+1) The purpose of jQuery is to make it much 
+    easier to use Javascript on your website.
+
+2) "Write once, do more"
+
+3) Cross brouser compatibility, open-source and free to use.
+
+4) jQuery simplies complicated 
+    tasks like AJAX calls and DOM Manipulation.
+
